@@ -1,0 +1,7 @@
+[package]
+name = "diff-image"
+version = "0.1.0"
+authors = ["nju33 <nju33.ki@gmail.com>"]
+
+[dependencies]
+image = "*"
